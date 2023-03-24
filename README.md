@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumaiyaFathimaI
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Artificial intelligence and data science
+- 👀 I’m coding enthusiastic
+- 🌱 I’m currently updating myself on Artificial intelligence and data science
 
 
 <!---
